@@ -1,0 +1,14 @@
+{
+  "name": "enb-validate-code",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enb-make/enb-validate-code.git"
+  },
+  "author": "Marat Dulin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enb-make/enb-validate-code/issues"
+  },
+  "homepage": "https://github.com/enb-make/enb-validate-code"
+}
